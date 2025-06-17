@@ -44,14 +44,14 @@ public class Main {
         System.out.println("The difference using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
         System.out.println("The quotient using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
 
-            // Variable declarations for step12:
-            double myLunchCost = 12.50;
-            int numberOfKids = 2;
-            boolean isRaining = false;
-            double priceOfGas = 3.85;
-            int favoriteNumber = 7;
-            double shoeSize = 8.5;
-            int birthMonth = 6;
-            String fullName = "Kristie Santa";
+        // Variable declarations for Step 12:
+        double myLunchCost = 12.50;
+        int numberOfKids = 2;
+        boolean isRaining = false;
+        double priceOfGas = 3.85;
+        int favoriteNumber = 7;
+        double shoeSize = 8.5;
+        int birthMonth = 6;
+        String fullName = "Kristie Santa";
     }
 }
